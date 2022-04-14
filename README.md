@@ -14,9 +14,9 @@ Configure xfce4-genmon to run the binary at the desired interval. Every two seco
 
 ## Segments
 
-Each segment is shown without a unit to save space. The units remain consistent so they are easily memorised by the user.
+Each segment is shown without a unit to save space, and they remain consistent so they can be memorised.
 
-Effort has been taken to ensure that the values are shown at a consistent number of significant figures so that fluctuations in the values do not move the numbers on the panel around, as this is jarring.
+The values are shown at a consistent number of significant figures so that fluctuations in the values do not move the numbers on the panel around (as this is jarring).
 
 ![](images/panel.png)
 
