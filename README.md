@@ -1,3 +1,5 @@
+⚠️ **This repository has been deprecated. Use [crdx/panel](https://github.com/crdx/panel) instead.**
+
 # panel
 
 **panel** is an [xfce4-genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start)-compatible tool for displaying system information. Its output is numeric statistics with icons. It is written in Crystal.
@@ -52,7 +54,7 @@ Total system memory usage calculated from `/proc/meminfo` in the same way as `fr
 
 ## Contributions
 
-Open an [issue](https://github.com/crdx/panel/issues) or send a [pull request](https://github.com/crdx/panel/pulls).
+Open an [issue](https://github.com/crdx/panel-cr/issues) or send a [pull request](https://github.com/crdx/panel-cr/pulls).
 
 ## Licence
 
